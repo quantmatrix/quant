@@ -4,4 +4,4 @@
 
 ## License
 
-[GPL-v2.0](https://github.com/quantmatrix/quant/blob/master/LICENSE)
+[GPL-v3.0](https://github.com/quantmatrix/quant/blob/master/LICENSE)
